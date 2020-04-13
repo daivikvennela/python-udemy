@@ -5,3 +5,4 @@ my_face = random.choices(faces)
 my_suit = random.choices(suits)
 print("Your card is the ", my_face, "of", my_suit )
 
+
